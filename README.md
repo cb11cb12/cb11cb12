@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm CB</h1>
 <h3 align="center">A passionate full-stack software engineer.</h3>
 
-<p align="left"> <a href="https://twitter.com/cb11cb12" target="blank"><img src="https://img.shields.io/twitter/follow/cb11cb12?logo=twitter&style=for-the-badge" alt="cb11cb12" /></a> </p>
-
 - 💬 Ask me about **javascript, react, and node**
 
-- 📫 How to reach me **cbbrandi11@gmail.com**
+- 📫 How to reach me **cbbrandi11@gmail.com** or **cbbrandi.com**
 
 - ⚡ Fun fact **I drink way too much coffee.**
 
