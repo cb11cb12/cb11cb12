@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm CB</h1>
 <h3 align="center">A passionate full-stack software engineer.</h3>
 
-- 💬 Ask me about **javascript, react, and node**
+- 💬 Ask me about - **JavaScript, react, and node**
 
-- 📫 How to reach me **cbbrandi11@gmail.com** or **cbbrandi.com**
+- 📫 How to reach me - **cbbrandi11@gmail.com** 
 
-- ⚡ Fun fact **I drink way too much coffee.**
+- ⚡ Fun fact - **I drink way too much coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
