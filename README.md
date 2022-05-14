@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CB</h1>
 <h3 align="center">A passionate full-stack software engineer.</h3>
 
-- 💬 Ask me about - **JavaScript, react, and node**
+- 💬 Ask me about - **JavaScript, React, and Node**
 
 - 📫 How to reach me - **cbbrandi11@gmail.com** 
 
