@@ -3,6 +3,8 @@
 
 - 💬 Ask me about - **JavaScript, React, and Node**
 
+- 📁 Portfolio - **cbbrandi.com**
+
 - 📫 How to reach me - **cbbrandi11@gmail.com** 
 
 - ⚡ Fun fact - **I drink way too much coffee.**
