@@ -3,7 +3,7 @@
 
 - 💬 Ask me about - **JavaScript, React, and Node**
 
-- 📁 Portfolio - **cbbrandi.com**
+- 📁 Portfolio - <a href="https://cbbrandi.com" target="blank">cbbrandi.com</a>
 
 - 📫 How to reach me - **cbbrandi11@gmail.com** 
 
