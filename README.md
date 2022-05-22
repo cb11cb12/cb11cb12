@@ -22,6 +22,7 @@
 
 Projects
 
-<span class="image main"><a href="https://legacyprosports.netlify.app" target="_blank"> Legacy Pro Sports: <img src="https://github.com/cb11cb12/cb11cb12/blob/main/ezgif.com-gif-maker.gif" alt="Legacy Pro Sports Website Gif" /></a></span>
-								<p><a href="https://quoteofday.netlify.app" target="_blank">Quote of the Day:</a></p>
-								<span class="image main"><a href="https://quoteofday.netlify.app" target="_blank"> <img src="https://github.com/cb11cb12/cb11cb12/blob/main/QuoteOfDay.gif" alt="Quote of Day Website Gif" /></a></span>
+<p><a href="https://legacyprosports.netlify.app" target="_blank">Legacy Pro Sports:</a></p>
+<span class="image main"><a href="https://legacyprosports.netlify.app" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/ezgif.com-gif-maker.gif" alt="Legacy Pro Sports Website Gif" /></a></span>
+<p><a href="https://quoteofday.netlify.app" target="_blank">Quote of the Day:</a></p>
+<span class="image main"><a href="https://quoteofday.netlify.app" target="_blank"> <img src="https://github.com/cb11cb12/cb11cb12/blob/main/QuoteOfDay.gif" alt="Quote of Day Website Gif" /></a></span>
