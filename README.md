@@ -20,7 +20,7 @@
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=cb11cb12&" alt="cb11cb12" /></p>
 
-<h3>Projects</h3>
+<h3 align="left">Projects:</h3>
 <p></p>
 <br>
 
@@ -35,8 +35,8 @@
 
 <p><a href="https://dailydiary-100devs.herokuapp.com" target="_blank">Daily Diary - Full-stack journal application:</a></p>
 
-<p><span>Demo Email: demo@gmail.com</span>
-<span>Demo Password: demo12345</span></p>
+<p><span>Demo Email: demo@gmail.com</span></p>
+<p><span>Demo Password: demo12345</span></p>
 <br>
 <span class="image main"><a href="https://dailydiary-100devs.herokuapp.com" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/dd.gif" alt="Daily Diary Gif" /></a></span>
 <br>
