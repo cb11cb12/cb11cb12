@@ -23,7 +23,7 @@
 Projects
 <br>
 
-<p><a href="https://easymoneyapp.herokuapp.com/" target="_blank">Easy Money - Full-stack Investing/Trading Social Media Site:</a></p>
+<p><a href="https://easymoneyapp.herokuapp.com/" target="_blank">Easy Money - Full-Stack Investing/Trading Social Media Site:</a></p>
 <span class="image main"><a href="https://easymoneyapp.herokuapp.com/" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/em.gif" alt="Easy Money Gif" /></a></span>
 
 <br>
