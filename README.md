@@ -22,6 +22,13 @@
 
 Projects
 <br>
+
+<p><a href="https://easymoneyapp.herokuapp.com/" target="_blank">Daily Diary - Full-stack Investing/Trading Social Media Site:</a></p>
+<span class="image main"><a href="https://easymoneyapp.herokuapp.com/" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/em.gif" alt="Easy Money Gif" /></a></span>
+
+<br>
+<br>
+
 <p><a href="https://dailydiary-100devs.herokuapp.com" target="_blank">Daily Diary - Full-stack journal application:</a></p>
 <span class="image main"><a href="https://dailydiary-100devs.herokuapp.com" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/dd.gif" alt="Daily Diary Gif" /></a></span>
 <br>
