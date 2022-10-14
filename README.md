@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cb11cb12&" alt="cb11cb12" /></p>
 
 Projects
-
+<br>
 <p><a href="https://dailydiary-100devs.herokuapp.com/login" target="_blank">Daily Diary - Full-stack journal application:</a></p>
 <span class="image main"><a href="https://dailydiary-100devs.herokuapp.com/login" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/dd.gif" alt="Daily Diary Gif" /></a></span>
 <br>
