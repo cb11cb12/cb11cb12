@@ -36,6 +36,7 @@ Projects
 
 <span>Demo Email: demo@gmail.com - </span>
 <span>Demo Password: demo12345</span>
+<br>
 <span class="image main"><a href="https://dailydiary-100devs.herokuapp.com" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/dd.gif" alt="Daily Diary Gif" /></a></span>
 <br>
 <br>
