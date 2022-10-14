@@ -20,7 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cb11cb12&" alt="cb11cb12" /></p>
 
-Projects
+<h3>Projects</h3>
+<p></p>
 <br>
 
 <p><a href="https://easymoneyapp.herokuapp.com/" target="_blank">Easy Money - Full-Stack Investing/Trading Social Media Site:</a></p>
