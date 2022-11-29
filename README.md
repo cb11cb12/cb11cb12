@@ -33,12 +33,12 @@
 <br>
 <br>
 
-<p><a href="https://dailydiary-100devs.herokuapp.com" target="_blank">Daily Diary - Full-stack journal application:</a></p>
+<p><a href="https://dailydiary.onrender.com" target="_blank">Daily Diary - Full-stack journal application:</a></p>
 
 <p><span>Demo Email: demo@gmail.com</span></p>
 <p><span>Demo Password: demo12345</span></p>
 <br>
-<span class="image main"><a href="https://dailydiary-100devs.herokuapp.com" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/dd.gif" alt="Daily Diary Gif" /></a></span>
+<span class="image main"><a href="https://dailydiary.onrender.com" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/dd.gif" alt="Daily Diary Gif" /></a></span>
 <br>
 <br>
 <p><a href="https://legacyprosports.netlify.app" target="_blank">Legacy Pro Sports:</a></p>
