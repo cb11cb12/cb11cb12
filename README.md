@@ -32,7 +32,7 @@
 <p><span>Demo Password: demo12345</span></p>
 <span class="image main"><a href="https://easymoney.onrender.com" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/em.gif" alt="Easy Money Gif" /></a></span>
 
-<br>
+<hr>
 <br>
 
 <p><a href="https://dailydiary.onrender.com" target="_blank">Daily Diary - Full-stack journal application:</a></p>
@@ -41,11 +41,11 @@
 <p><span>Demo Password: demo12345</span></p>
 <br>
 <span class="image main"><a href="https://dailydiary.onrender.com" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/dd.gif" alt="Daily Diary Gif" /></a></span>
-<br>
+<hr>
 <br>
 <p>Legacy Pro Sports:</p>
 <span class="image main"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/ezgif.com-gif-maker.gif" alt="Legacy Pro Sports Website Gif" /></span>
-<br>
+<hr>
 <br>
 <p><a href="https://quoteofday.netlify.app" target="_blank">Quote of the Day:</a></p>
 <span class="image main"><a href="https://quoteofday.netlify.app" target="_blank"> <img src="https://github.com/cb11cb12/cb11cb12/blob/main/QuoteOfDay.gif" alt="Quote of Day Website Gif" /></a></span>
