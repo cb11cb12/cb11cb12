@@ -43,8 +43,8 @@
 <span class="image main"><a href="https://dailydiary.onrender.com" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/dd.gif" alt="Daily Diary Gif" /></a></span>
 <br>
 <br>
-<p><a href="https://legacyprosports.netlify.app" target="_blank">Legacy Pro Sports:</a></p>
-<span class="image main"><a href="https://legacyprosports.netlify.app" target="_blank"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/ezgif.com-gif-maker.gif" alt="Legacy Pro Sports Website Gif" /></a></span>
+<p>Legacy Pro Sports:</p>
+<span class="image main"><img src="https://github.com/cb11cb12/cb11cb12/blob/main/ezgif.com-gif-maker.gif" alt="Legacy Pro Sports Website Gif" /></span>
 <br>
 <br>
 <p><a href="https://quoteofday.netlify.app" target="_blank">Quote of the Day:</a></p>
