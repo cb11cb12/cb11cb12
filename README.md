@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm CB</h1>
 <h3 align="center">A software engineer.</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about - **JavaScript, Node, and React**
+- 💬 Ask me about - **C#, JavaScript, and SQL**
 
 - 📁 Portfolio - <a href="https://cbbrandi.com" target="_blank">**cbbrandi.com**</a>
 
