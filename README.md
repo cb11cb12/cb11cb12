@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CB</h1>
-<h3 align="center">A full-stack software engineer.</h3>
+<h3 align="center">A software engineer.</h3>
 
 - 🌱 I’m currently learning **C#**
 
